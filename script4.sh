@@ -2,7 +2,7 @@
 # Script 4: Log File Analyzer
 # Usage: ./script4.sh /var/log/syslog error
 
-LOGFILE=$1
+LOGFILE=${1:-/var/log/syslog}
 KEYWORD=${2:-"error"}   # Default keyword = error
 COUNT=0
 
