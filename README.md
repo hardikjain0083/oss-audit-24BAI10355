@@ -92,7 +92,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ## Script Descriptions
 
-### 🔹 Script 1 — System Identity Report
+###  Script 1 : System Identity Report
 
 Displays system information such as:
 
@@ -104,7 +104,7 @@ Displays system information such as:
 
 ---
 
-### 🔹 Script 2 — FOSS Package Inspector
+###  Script 2 : FOSS Package Inspector
 
 * Checks whether Git is installed
 * Displays version and package details
@@ -112,7 +112,7 @@ Displays system information such as:
 
 ---
 
-### 🔹 Script 3 — Disk and Permission Auditor
+###  Script 3 : Disk and Permission Auditor
 
 * Analyzes important system directories
 * Displays permissions, owner, and size
@@ -120,7 +120,7 @@ Displays system information such as:
 
 ---
 
-### 🔹 Script 4 — Log File Analyzer
+###  Script 4 : Log File Analyzer
 
 * Reads log files line by line
 * Counts occurrences of a keyword (default: error)
@@ -128,7 +128,7 @@ Displays system information such as:
 
 ---
 
-### 🔹 Script 5 — Open Source Manifesto Generator
+###   Script 5 : Open Source Manifesto Generator
 
 * Takes user input
 * Generates a personalized open-source statement
